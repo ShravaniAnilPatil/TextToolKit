@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color: blue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  float: left;
+  flex: content;
+}
+p{
+  font-weight: 400;
+}
