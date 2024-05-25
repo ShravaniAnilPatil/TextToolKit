@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShravaniAnilPatil/textutils.git/static/css/main.ec0e221d.css",
-    "main.js": "/ShravaniAnilPatil/textutils.git/static/js/main.49481786.js",
-    "static/js/453.02b6ed6f.chunk.js": "/ShravaniAnilPatil/textutils.git/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/ShravaniAnilPatil/textutils.git/index.html",
-    "main.ec0e221d.css.map": "/ShravaniAnilPatil/textutils.git/static/css/main.ec0e221d.css.map",
-    "main.49481786.js.map": "/ShravaniAnilPatil/textutils.git/static/js/main.49481786.js.map",
-    "453.02b6ed6f.chunk.js.map": "/ShravaniAnilPatil/textutils.git/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/textutils/static/css/main.ec0e221d.css",
+    "main.js": "/textutils/static/js/main.8aa94a55.js",
+    "static/js/453.02b6ed6f.chunk.js": "/textutils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/textutils/index.html",
+    "main.ec0e221d.css.map": "/textutils/static/css/main.ec0e221d.css.map",
+    "main.8aa94a55.js.map": "/textutils/static/js/main.8aa94a55.js.map",
+    "453.02b6ed6f.chunk.js.map": "/textutils/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec0e221d.css",
-    "static/js/main.49481786.js"
+    "static/js/main.8aa94a55.js"
   ]
 }
